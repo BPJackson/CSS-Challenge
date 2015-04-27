@@ -1,0 +1,27 @@
+/* by 'rest', I assumed the rest of the document other than the background for h1 */
+body {
+  background: blue;
+}
+h1 {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+article {
+  width: 300px;
+}
+
+.quotes li {
+  text-transform: uppercase;
+}
+
+/* by missions do you mean places? That was my assumption :-) */
+.places li {
+  font-style: italic;
+  font-weight: bold;
+}
