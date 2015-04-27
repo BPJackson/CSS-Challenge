@@ -3,3 +3,4 @@
 3. Change the styling of the missions to italic and bold
 4. Center the h1 and h2 elements
 5. Change the background to blue for the rest
+6. Change the width of the article to 300 px 
